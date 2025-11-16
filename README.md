@@ -1,48 +1,82 @@
-VyomGarud Landing Page
-
 🌐 Live Demo
- https://vyomgarud-landing-page-ten.vercel.app/
 
-A modern UAV Systems Landing Page built using Vite + React + TailwindCSS + Framer Motion as part of the VyomGarud Web Developer Assessment.
+🔗 https://vyomgarud-landing-page-ten.vercel.app/
 
+ 🚀 Tech Stack
 
-     🚀 Tech Stack
+⚛️ React (Vite)
+🎨 Tailwind CSS
+🎞️ Framer Motion
+🖼️ Custom UAV Drone Illustration
+📱 Fully Responsive UI
 
-React (Vite)
+📦 Setup Instructions
+1️⃣ Clone the Repository
+git clone https://github.com/EngineerGajanan22/vyomgarud-landing-page.git
+cd vyomgarud-landing-page
 
-TailwindCSS
+2️⃣ Install Dependencies
+npm install
 
-Framer Motion
+3️⃣ Run the Development Server
+npm run dev
 
-Modern UAV UI Concepts
-
-Responsive Grid Layout
+4️⃣ Build for Production
+npm run build
 
 🎨 Design Notes
 
-Dark defense-tech theme
+This UI follows a premium defense-tech design language, featuring:
 
-Realistic UAV drone illustration integrated in hero section
+🔶 Orange military-accent color (#ff7b00)
+⚫ Dark tactical background
+✨ Realistic UAV drone image with glow effects
+🎥 Smooth animations using Framer Motion
+🔳 Modern card shadows, gradients & depth
+📱 Fully responsive grid-based layout
+🛡️ Minimalist, strong typography for aerospace branding
 
-Orange accent for premium military UI feel
+📸 Screenshots
 
-Glow + depth + shadows for a modern/clean look
+Add your screenshot here:
 
-Fully responsive for all devices
+![Preview](./src/assets/preview.png)
 
-Screenshots:  ![Preview](./src/assets/preview.png)
+🎥 Demo GIF (Optional)
 
-GIF: ![Demo](./src/assets/demo.gif)
+If you add a GIF:
 
+![Demo](./src/assets/demo.gif)
 
-Smooth animations via Framer Motion
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧩 Features
 
-## React Compiler
+⚡ Fast-loading, optimized Vite setup
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛩️ Hero section with realistic drone illustration
+🎞️ Animated content sections
+🧱 Capabilities & Highlights in responsive grid
+📩 Contact section with clean UI
+🧭 Sticky Navbar with scroll effect
+📱 Mobile-first responsive design
 
-## Expanding the ESLint configuration
+📚 Commit History Includes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Initial project setup (Vite + React + Tailwind)
+
+Added Navbar + Hero section
+
+Integrated realistic drone illustration
+
+Added animations using Framer Motion
+
+Built About / Capabilities / Highlights / Footer components
+
+Improved UI & responsiveness
+
+Added README + Screenshot
+
+👨‍💻 Developed By
+
+Gajanan Gangakhedkar
+Frontend Developer
+India
