@@ -1,9 +1,38 @@
-# React + Vite
+VyomGarud Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern UAV Systems Landing Page built using Vite + React + TailwindCSS + Framer Motion as part of the VyomGarud Web Developer Assessment.
 
-Currently, two official plugins are available:
 
+     🚀 Tech Stack
+
+React (Vite)
+
+TailwindCSS
+
+Framer Motion
+
+Modern UAV UI Concepts
+
+Responsive Grid Layout
+
+🎨 Design Notes
+
+Dark defense-tech theme
+
+Realistic UAV drone illustration integrated in hero section
+
+Orange accent for premium military UI feel
+
+Glow + depth + shadows for a modern/clean look
+
+Fully responsive for all devices
+
+Screenshots:  ![Preview](./src/assets/preview.png)
+
+GIF: ![Demo](./src/assets/demo.gif)
+
+
+Smooth animations via Framer Motion
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
